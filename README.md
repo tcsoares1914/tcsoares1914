@@ -18,15 +18,7 @@
   <a href="https://www.twitter.com/tcsoares1914" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-9146FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/tcsoares1914" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://medium.com/@tcsoares1914" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whitee" target="_blank">
-  </a> 
   <a href="https://open.spotify.com/user/12144582651" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a> 
- 
-  ![Snake animation](https://github.com/tcsoares1914/tcsoares1914/blob/output/github-contribution-grid-snake.svg)
 </div>
